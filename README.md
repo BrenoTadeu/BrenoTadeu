@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋😁! Me chamo Breno Tadeu!</h1>
+<h1 align="left">Olá 👋😁! Me chamo Breno Tadeu!</h1>
 
 <img 
   align="left"
