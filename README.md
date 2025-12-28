@@ -6,6 +6,8 @@
   width="280"
   style="border-radius:12px; margin-right:20px; padding-right:10px ;"
 />
-  🎓 Estudante de Ciência da Computação  
-  💻 Desenvolvedor Back-end em formação  
-  ☕ Focado em Java e Spring Boot 
+<p>
+  🎓 Estudante de Ciência da Computação <br>  
+  💻 Desenvolvedor Back-end em formação <br>
+  ☕ Focado em Java e Spring Boot <br>
+</p>
