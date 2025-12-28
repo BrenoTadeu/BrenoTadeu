@@ -7,8 +7,9 @@
   style="border-radius:12px; margin-right:20px;"
 />
 
-🎓 Estudante de Ciência da Computação  
-💻 Desenvolvedor Back-end em formação  
-☕ Focado em Java e Spring Boot  
-
+<div align="rigth">
+  🎓 Estudante de Ciência da Computação  
+  💻 Desenvolvedor Back-end em formação  
+  ☕ Focado em Java e Spring Boot  
+</div>
 <br clear="left"/>
