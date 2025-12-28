@@ -9,7 +9,7 @@
       </div>
     </td>
     <td>
-        <div align="center">
+        <div>
         🎓 Estudante de Ciência da Computação  
         💻 Desenvolvedor Back-end em formação  
         ☕ Focado em Java e Spring Boot  
