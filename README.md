@@ -6,7 +6,7 @@
   width="280"
   style="border-radius:12px; margin-right:20px; padding-left:10px ;"
 />
-<p style="margin-left:10px;">
+<p style="margin-right:10px;">
   🎓 Estudante de Ciência da Computação <br>  
   💻 Desenvolvedor Back-end em formação <br>
   ☕ Focado em Java e Spring Boot <br>
