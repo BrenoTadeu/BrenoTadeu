@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá 👋 Eu sou o Breno</h1>
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NnF0dnppbHBrazRjMDFrdTE3NmFlODFvbDQ1ZmU5ZTE2aHE3M25rciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o59XjVXy3dErtsT3Ei/giphy.gif)" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NnF0dnppbHBrazRjMDFrdTE3NmFlODFvbDQ1ZmU5ZTE2aHE3M25rciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o59XjVXy3dErtsT3Ei/giphy.gif" width="300"/>
 </div>
 
 <div align="center">
