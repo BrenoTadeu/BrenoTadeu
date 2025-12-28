@@ -1,5 +1,4 @@
-<h1 align="left">Olá 👋😁! Me chamo Breno Tadeu!</h1>
-
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradiente&text=Breno%20Tadeu&reversal=true&textBg=false)
 <img 
   align="left"
   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZtOWU0bzVyczNjNzB1bDBnMnViamhzY3plbWhtaXc0Yzdvb3hrMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13GIgrGdslD9oQ/giphy.gif"
