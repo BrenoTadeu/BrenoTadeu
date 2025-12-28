@@ -1,7 +1,7 @@
 <div align="left">
   <h1>Olá 👋😁! Me chamo Breno Tadeu! </h1>
 </div>  
-<table>
+<table align="center" border="0">
   <tr>
     <td>
       <div align="center">
