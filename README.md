@@ -16,7 +16,7 @@ banco de dados e boas práticas de programação.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=BrenoTadeu&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrenoTadeu&show_icons=true)
 
 ## 📫 Contato
 - LinkedIn: https://linkedin.com/in/seu-perfil
