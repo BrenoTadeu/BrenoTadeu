@@ -1,5 +1,5 @@
 <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:8a2be2&height=180&section=header&text=Breno%20Tadeu&fontColor=ffffff&fontSize=40"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:8a2be2&height=180&section=header&text=Olá!%20Me%20chamo%20Breno&fontColor=ffffff&fontSize=40"
   />
 <img 
   align="left"
