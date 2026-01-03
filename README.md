@@ -18,8 +18,12 @@
           [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brenotadeugomessantos@gmail.com)
        </a>
 
+&nbsp;
+## About me
+I'm studying Science Computer, focused in the back-end development with java
+
 &nbsp; 
 ## Tools 🛠
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,nodejs,mysql,postman,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,php,nodejs,html,css,jquery,mysql,postgres,postman)](https://skillicons.dev)
 
