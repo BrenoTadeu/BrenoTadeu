@@ -1,5 +1,5 @@
 <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:8a2be2&height=180&section=header&text=Olá!%20Me%20chamo%20Breno&fontColor=ffffff&fontSize=40"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:6a0dad,100:8a2be2&height=180&section=header&text=Hi!%20I'm%20Breno%20Tadeu&fontColor=ffffff&fontSize=40"
   />
   
 <img 
@@ -9,18 +9,19 @@
   style="border-radius:12px; margin-right:20px; padding-left:10px ;"
 />
 
-  &nbsp; 🎓 Estudante de Ciência da Computação  
-  &nbsp; 💻 Desenvolvedor Back-end em formação <br>
- &nbsp; ☕ Focado em Java
-
- &nbsp;<a href="https://www.linkedin.com/in/brentotadeu/" target="_blank">
+  &nbsp; 🎓 Student the Science Computer  
+  &nbsp; 💻 Training in the back-end development with Java <br>
+ &nbsp;
           [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenotadeu/)
           [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brenotadeugomessantos@gmail.com)
-       </a>
+
+<br>
 
 &nbsp;
+&nbsp;
 ## About me
-I'm studying Science Computer, focused in the back-end development with java
+I'm studying Science Computer, focused in the back-end development with java.
+I'm search that work, for my personal and profissional development.
 
 &nbsp; 
 ## Tools 🛠
