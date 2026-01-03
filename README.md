@@ -13,4 +13,7 @@
   &nbsp; 💻 Desenvolvedor Back-end em formação <br>
  &nbsp; ☕ Focado em Java
 
- ![Linkedin](www.linkedin.com/in/brenotadeu)
+ <a href="https://www.linkedin.com/in/brentotadeu/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
+</a>
+
