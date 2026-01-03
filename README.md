@@ -21,5 +21,5 @@
 &nbsp; 
 ## Tools 🛠
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,nodejs,mysql,postaman,postegrees)](https://skillicons.dev)
 
