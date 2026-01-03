@@ -14,6 +14,12 @@
  &nbsp; ☕ Focado em Java
 
  &nbsp;<a href="https://www.linkedin.com/in/brentotadeu/" target="_blank">
-          <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
+          [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenotadeu/)
+          [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brenotadeugomessantos@gmail.com)
        </a>
+
+&nbsp; 
+## Tools 🛠
+
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,figma)](https://skillicons.dev)
 
