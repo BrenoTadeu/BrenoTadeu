@@ -11,4 +11,6 @@
 
   &nbsp; 🎓 Estudante de Ciência da Computação  
   &nbsp; 💻 Desenvolvedor Back-end em formação <br>
- &nbsp; ☕ Focado em Java e Spring Boot
+ &nbsp; ☕ Focado em Java
+
+ ![Linkedin](www.linkedin.com/in/brenotadeu)
