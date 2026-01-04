@@ -31,5 +31,5 @@ I'm search that work, for my personal and profissional development.
 &nbsp; 
 ## Tools 🛠
 
-[![My Skills](https://skillicons.dev/icons?i=java,php,nodejs,html,css,jquery,mysql,postgres,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,php,nodejs,html,css,mysql,postgres,postman)](https://skillicons.dev)
 
